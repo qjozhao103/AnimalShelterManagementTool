@@ -1,0 +1,20 @@
+{"allAnimals": [
+    {
+        "ownerName": "",
+        "species": "cat",
+        "healthStatus": "",
+        "isVaccinated": false,
+        "isAdopted": false,
+        "name": "Luna",
+        "age": 0
+    },
+    {
+        "ownerName": "",
+        "species": "dog",
+        "healthStatus": "",
+        "isVaccinated": false,
+        "isAdopted": false,
+        "name": "Coffee",
+        "age": 0
+    }
+]}
